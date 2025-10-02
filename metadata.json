@@ -1,0 +1,5 @@
+{
+  "name": "Hydraulics AI Course Tutor",
+  "description": "An AI-powered tutor that helps you study for your Hydraulics course using your own lecture notes and exams. Upload your materials, ask questions, and get custom practice problems.",
+  "requestFramePermissions": []
+}
